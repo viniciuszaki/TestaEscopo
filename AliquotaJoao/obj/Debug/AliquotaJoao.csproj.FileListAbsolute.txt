@@ -1,0 +1,7 @@
+C:\Users\vinic\source\repos\TestaEscopo\AliquotaJoao\bin\Debug\AliquotaJoao.exe.config
+C:\Users\vinic\source\repos\TestaEscopo\AliquotaJoao\bin\Debug\AliquotaJoao.exe
+C:\Users\vinic\source\repos\TestaEscopo\AliquotaJoao\bin\Debug\AliquotaJoao.pdb
+C:\Users\vinic\source\repos\TestaEscopo\AliquotaJoao\obj\Debug\AliquotaJoao.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\TestaEscopo\AliquotaJoao\obj\Debug\AliquotaJoao.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\TestaEscopo\AliquotaJoao\obj\Debug\AliquotaJoao.exe
+C:\Users\vinic\source\repos\TestaEscopo\AliquotaJoao\obj\Debug\AliquotaJoao.pdb
